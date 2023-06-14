@@ -1,0 +1,22 @@
+--class-path
+'C:/Users/Administrateur/Desktop/Generator-Deploy/maventest/target/classes'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/Administrateur/Desktop/Generator-Deploy/maventest/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Administrateur/Desktop/Generator-Deploy/maventest/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'maventest 0.0.1-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'maventest 0.0.1-SNAPSHOT API'
