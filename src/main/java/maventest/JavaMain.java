@@ -1,8 +1,14 @@
 package maventest;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 public class JavaMain {
 
+	private static Logger Logger = LoggerFactory.getLogger(JavaMain.class);
 	public static void main(String[] args) {
+		
+		Logger.info("Je me connecte");
 
 		Token georgeTransformer = new Token();
 		String text = "Mon nom est {name}, j'habite aux {address}, vous pouvez m'appelez a ce numero {phone} ou directement mon entreprise {company}";
